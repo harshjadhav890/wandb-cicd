@@ -1,4 +1,5 @@
 name: ci demo
+run-name: ci demo
 on: [push]
 jobs:
   my-first-job:
