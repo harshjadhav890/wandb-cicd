@@ -1,4 +1,5 @@
 name: trigger🔫
+run-name: trigger🔫
 on:
   push:
     branches:
