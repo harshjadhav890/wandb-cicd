@@ -11,7 +11,7 @@ jobs:
     - name: run python script
       run: |
         pip install -r client/requirements.txt
-        python ci.py
+        python client/ci.py
       
       
  
