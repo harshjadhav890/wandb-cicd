@@ -1,3 +1,3 @@
 # wandb-cicd
 
-This is the repo I am using to follow the wandb ci/cd course.
+This repo contains files to follow the wandb ci/cd course.
