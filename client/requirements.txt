@@ -1,2 +1,2 @@
 wandb
-sklearn
+scikit-learn
